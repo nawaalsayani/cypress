@@ -1,4 +1,4 @@
-# Osano Assignment - Test Main Wikipedia Page
+# Test Main Wikipedia Page
 
 ## Test Cases
 
